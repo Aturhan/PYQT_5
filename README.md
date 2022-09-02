@@ -1,2 +1,2 @@
 
-# develoing ui with using PYQT_5
+#  ui / PYQT_5
